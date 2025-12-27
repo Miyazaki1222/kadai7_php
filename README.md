@@ -8,7 +8,7 @@
 - 表示（read.php）:履歴を表示
 
 ## ③アプリのデプロイURL
-
+https://miyazaki23.sakura.ne.jp/kadai7_php/index.php
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: なし
